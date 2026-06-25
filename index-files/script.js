@@ -1,4 +1,4 @@
-var isIE = navigator.appVersion.indexOf("MSIE") != -1;
+﻿var isIE = navigator.appVersion.indexOf("MSIE") != -1;
 
 var preview, preview_img;
 
